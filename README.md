@@ -1,3 +1,3 @@
 # sfrfrlnc-images
 
-Gambar untuk website saya.
+Gambar untuk website utama.
