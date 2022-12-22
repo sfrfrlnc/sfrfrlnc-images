@@ -19,7 +19,7 @@
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="1"
      inkscape:pagecheckerboard="0"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
@@ -65,30 +65,30 @@
        style="font-size:64px;white-space:pre;shape-inside:url(#rect251);display:inline;fill:#000000"><tspan
          x="118.01953"
          y="140.19773"
-         id="tspan493">Pasang pipa </tspan><tspan
+         id="tspan144">Pasang pipa </tspan><tspan
          x="118.01953"
          y="220.19773"
-         id="tspan495">mengarah ke </tspan><tspan
+         id="tspan146">mengarah ke </tspan><tspan
          x="118.01953"
          y="300.19773"
-         id="tspan497">atas.
+         id="tspan148">atas.
 </tspan><tspan
          x="118.01953"
          y="380.19773"
-         id="tspan499">
+         id="tspan150">
 </tspan><tspan
          x="118.01953"
          y="460.19773"
-         id="tspan501">Ketinggian air </tspan><tspan
+         id="tspan152">Ketinggian air </tspan><tspan
          x="118.01953"
          y="540.19773"
-         id="tspan503">akan bergantung </tspan><tspan
+         id="tspan154">akan bergantung </tspan><tspan
          x="118.01953"
          y="620.19773"
-         id="tspan505">kemiringan pipa </tspan><tspan
+         id="tspan156">kemiringan pipa </tspan><tspan
          x="118.01953"
          y="700.19773"
-         id="tspan507">tersebut.</tspan></text>
+         id="tspan158">tersebut.</tspan></text>
     <path
        style="fill:#000000;stroke-width:0.264583"
        id="path475"

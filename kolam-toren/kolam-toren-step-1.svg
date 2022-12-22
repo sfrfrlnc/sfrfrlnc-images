@@ -19,8 +19,8 @@
      bordercolor="#000000"
      borderopacity="0.25"
      inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
+     inkscape:pageopacity="1"
+     inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="mm"
      showgrid="false"
@@ -32,7 +32,8 @@
      inkscape:window-x="-8"
      inkscape:window-y="-8"
      inkscape:window-maximized="1"
-     inkscape:current-layer="layer1" />
+     inkscape:current-layer="layer1"
+     shape-rendering="auto" />
   <defs
      id="defs2">
     <rect
@@ -81,9 +82,9 @@
        style="font-size:64px;white-space:pre;shape-inside:url(#rect251);fill:#000000"><tspan
          x="118.01953"
          y="140.19773"
-         id="tspan373">Siapkan Sebuah </tspan><tspan
+         id="tspan138">Siapkan Sebuah </tspan><tspan
          x="118.01953"
          y="220.19773"
-         id="tspan375">Toren Air</tspan></text>
+         id="tspan140">Toren Air</tspan></text>
   </g>
 </svg>
